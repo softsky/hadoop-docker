@@ -1,5 +1,5 @@
 FROM openjdk:8-jre
-MAINTAINER Singularities
+MAINTAINER SOFTSKY Arsen A. Gutsal <a.gutsal@softsky.com.ua>
 
 # Version
 ENV HADOOP_VERSION=2.9.0
